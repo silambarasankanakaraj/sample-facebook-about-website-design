@@ -1,0 +1,16 @@
+.navbar-custom{
+	background-color: #58FA58;
+}
+
+.footer{
+   	background-color: #58FA58;
+   	padding: 5px 10px 2px;
+}
+
+.icon-bar{
+	background-color:#0B610B;
+}
+
+#navbar-collapse > ul > li > a:hover{
+    background-color:#D0FA58;
+}
